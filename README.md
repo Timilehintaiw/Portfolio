@@ -1,3 +1,4 @@
+[About me](About-me)
 # Timilehin Taiwo's Testing portfolio
 Hi, Welcome to my portfolio! I am a passionate software tester specializing in manual and automation testing. This repository showcases my skills, projects, and accomplishments in the field of software testing.
 ## About me
