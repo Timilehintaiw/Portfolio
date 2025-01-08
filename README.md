@@ -32,7 +32,7 @@ API testing ensures that the backend services of an application function as expe
 * Using Postman to send requests and validate responses.
 * Successfully performed GET and DELETE operations to retrieve and remove data.
 * Analyzing response codes, response times, and headers to ensure APIs function as expected.
- ####  Validation:
+ * Validation:
 * Checking response body content to confirm data accuracy.
 * Validating HTTP status codes (e.g., 200 OK, 404 Not Found, 500 Internal Server Error).
   #### Scenario Testing:
