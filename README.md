@@ -76,7 +76,9 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Performance Testing: Using JMeter to assess system stability and response time.
 * API Testing: Validating backend functionality with Postman.
 
-# My works
-  An example of automation
+# Example of my works
+### Test scenarios in Trello
+* Test Scenario of a Ecommerce website [Test Scenario of an ecommerce website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Cart%20functionalities%20of%20an%20EW.png)
+* An example of automation
  [Facebook signup page automation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
   
