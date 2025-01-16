@@ -84,7 +84,10 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   [Test scenario of a Train station signup](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios%202.png)
   ### User stories and Acceptances criterias in Jira
   * User stories of an ecommerce website, online school, Bank website, Train a station website
-  *  [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%201.png)
+  *  [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%201.png)
+  * [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%202.png)
+  * Acceptance criterias for the User stories above for the user stories
+  * [Acceptance criteria] 
 
   
 * An example of automation
