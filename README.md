@@ -87,7 +87,10 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   *  [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%201.png)
   * [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%202.png)
   * Acceptance criterias for the User stories above for the user stories
-  * [Acceptance criteria] 
+  * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%201.png)
+  * [Acceptance criteria]
+  * [Acceptance criteria]
+  * [Acceptance criteria]
 
   
 * An example of automation
