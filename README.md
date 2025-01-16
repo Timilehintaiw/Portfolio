@@ -79,7 +79,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 # Example of my works
 ### Test scenarios in Trello
 * Test Scenario of an Ecommerce website [Test Scenario of an ecommerce website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Cart%20functionalities%20of%20an%20EW.png)
-* Test Scenario of Train station timetable 
+* Test Scenario of Train station timetable[Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios.png)
 * An example of automation
  [Facebook signup page automation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
   
