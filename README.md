@@ -89,7 +89,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * Acceptance criterias for the User stories above for the user stories
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%201.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%202.png)
-  * [Acceptance criteria]
+  * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%203.png)
   * [Acceptance criteria]
 
   
