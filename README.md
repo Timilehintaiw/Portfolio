@@ -75,4 +75,8 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Regression Testing: Ensuring updates don’t break existing functionality.
 * Performance Testing: Using JMeter to assess system stability and response time.
 * API Testing: Validating backend functionality with Postman.
+
+  #My works
+  An example of automation
+  [Facebook Signup Automation](media/
   
