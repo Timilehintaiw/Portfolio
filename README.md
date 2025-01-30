@@ -93,9 +93,10 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%204.png)
     ### API testing in postman
     *[Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM.png)
+    *[Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png)
+    *[Example of Test cases in API]
 
   
  #### An example of automation
 * [Facebook signup page automation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
-* [Facebook signup page automation] 
-  
+
