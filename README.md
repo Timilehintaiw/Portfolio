@@ -103,6 +103,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Examples of arithmetrics and basics skills in java](https://github.com/Timilehintaiw/Portfolio/blob/main/Java%20Practice%206(i).png) 2(i)
       * [Examples of arithmetrics and basics skills in java](https://github.com/Timilehintaiw/Portfolio/blob/main/Java%20Practice%206(ii).png) 2(ii)
       * [Examples of arithmetrics and basics skills in java](https://github.com/Timilehintaiw/Portfolio/blob/main/Java%20Practice%204.png) 3
+      * [Examples of arithmetrics and basics skills in java](https://github.com/Timilehintaiw/Portfolio/blob/main/Java%20Practice%204.png) 4
 
   
  #### An example of automation
