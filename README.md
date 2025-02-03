@@ -77,7 +77,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * API Testing: Validating backend functionality with Postman.
 
 # Example of my works
-### Test scenarios in Trello
+   ### Test scenarios in Trello
 * Test Scenario of an Ecommerce website [Test Scenario of an ecommerce website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Cart%20functionalities%20of%20an%20EW.png)
 * Test Scenario of Train station timetable[Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios.png) [Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios%202.png) 2
 * Test Scenario of Train station Signup [Test scenario of a Train station signup](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Railway%20signup%20scenarios.png)
@@ -91,12 +91,14 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%202.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%203.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%204.png)
-    ### API testing in postman
-    * [Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM.png) 1
-    * [Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png) 2
-    * [Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%203.png) 3
-    * [Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%204.png) 4
-    * [Example of Test cases in API](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%205.png) 5
+     ### API testing in postman
+    * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM.png) 1
+    * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png) 2
+    * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%203.png) 3
+    * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%204.png) 4
+    * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%205.png) 5
+      ### Example of my java skills
+      *[Example
 
   
  #### An example of automation
