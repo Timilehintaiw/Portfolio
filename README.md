@@ -99,7 +99,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%205.png) 5
       ### Example of my java skills
       * [Example of a test case with Selenium](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png)
-      * [Examples of arithmetrics and basics skills in java](
+      * [Examples of arithmetrics and basics skills in java](https://github.com/Timilehintaiw/Portfolio/blob/main/Java%20practice%201.png) 1, (
 
   
  #### An example of automation
