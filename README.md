@@ -119,7 +119,11 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of Performance test using BlazeMeter, Record and playback](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%2CBM%2Cjmeter.png)
       * [Example of Adding the recorded scripts to jmeter](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%2C%20Add%20file%20to%20jmeter%20BM.png)
       * [Example of the recorded script setup in jmeter](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20test%2C%20thread%20group%20BM.png)
-      * [Example of the recorded script's result]() 1
+      * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%20Test%2Cresult1%20BM.png) 1
+      * [Example of the recorded script's result]() 2
+      * [Example of the recorded script's result]() 3
+      
+      
 
 
   
