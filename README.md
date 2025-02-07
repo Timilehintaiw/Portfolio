@@ -113,6 +113,8 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of jmeter result dashboard](https://github.com/Timilehintaiw/Portfolio/blob/main/Dashboard%20Result%204.png) 4
       * [Example of an Api performance test setup in Jmeter](https://github.com/Timilehintaiw/Portfolio/blob/main/API%20P%20Test%2Cjmeter.png)
       * [Example of jsonplaceholder APIs file](https://github.com/Timilehintaiw/Portfolio/blob/main/API%20P%20Testing-Jsonplaceholderfile.png)
+      * [Example of API test result](https://github.com/Timilehintaiw/Portfolio/blob/main/API%20PTest-%20Result%2Cjmeter.png) 1
+      * [Example of API test result]() 2
 
 
   
