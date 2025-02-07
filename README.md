@@ -116,7 +116,8 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of API test result](https://github.com/Timilehintaiw/Portfolio/blob/main/API%20PTest-%20Result%2Cjmeter.png) 1
       * [Example of API test result](https://github.com/Timilehintaiw/Portfolio/blob/main/API%20P%20Test-Result2%2Cjmeter.png) 2
       * [Example of API test result](https://github.com/Timilehintaiw/Portfolio/blob/main/API%20P%20Test-Result3%2Cjmeter.png) 3
-      * [Example of Performance test using BlazeMeter, Record and playback]()
+      * [Example of Performance test using BlazeMeter, Record and playback](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%2CBM%2Cjmeter.png)
+      * [Example of Adding the recorded scripts to jmeter]()
 
 
   
