@@ -1,5 +1,4 @@
-* [About me](about-me)
-* [Skills](skills)
+
 # Timilehin Taiwo's Testing portfolio
 Hi, Welcome to my portfolio! I am a passionate software tester specializing in manual and automation testing. This repository showcases my skills, projects, and accomplishments in the field of software testing.
 ## About me
@@ -8,8 +7,6 @@ I'm a thoughtful and detail-driven QA tester with a strong passion for deliverin
 Problem-solving excites me. I enjoy breaking things down, finding gaps, and ensuring everything works just as it should. I’m naturally curious and always eager to grow — I’ve completed a comprehensive Udemy course in software testing and also taken several free courses on YouTube to deepen my understanding.
 
 Above all, I value teamwork, clear communication, and continuous improvement. I'm committed to learning, collaborating, and making a real impact in every project I’m part of.
-
-
 
 # Skills
 #### Manual Testing:
@@ -54,11 +51,13 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 #### Reporting and Collaboration:
 * Generating detailed performance reports to share findings with stakeholders.
 * Collaborating with developers and system architects to address performance issues.
+* 
   #### Automation testing
 * Learning to use Selenium WebDriver for automating web application testing.
 * Writing basic test scripts in Java to perform actions like login, navigation, and validation.
 * Interacting with web elements using techniques like locators (ID, name, CSS selectors, and XPath).
 * Understanding the structure of Selenium test scripts, including setup, execution, and teardown.
+* Playwright: Proficient in automating browser interactions and creating robust test scripts for end-to-end testing.
 #### Test Scenario Automation:
 *Automating functional tests to ensure application workflows operate correctly.
 *Beginning to explore data-driven testing for validating multiple inputs.
@@ -66,7 +65,8 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Familiar with integrating Selenium scripts into tools like IntelliJ IDEA or Eclipse for execution.
 * Tools: Selenium, JMeter, Postman, Azure DevOps, Jira, Trello, Zephyr scale
 * Languages: Basic knowledge of Java (for Selenium automation)
-* Techniques: Black-box Testing, Exploratory Testing, Regression Testing
+* Techniques: Black-box Testing, white-box Testing, Exploratory Testing, Regression Testing
+* SQL: Solid foundation in querying databases, validating data integrity, and performing database testing.
 ###### Methodologies:
 * Manual Testing: Systematic execution of test cases without automation tools.
 * Black-Box Testing: Techniques like equivalence partitioning, boundary value analysis, and exploratory testing.
@@ -75,6 +75,8 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Regression Testing: Ensuring updates don’t break existing functionality.
 * Performance Testing: Using JMeter to assess system stability and response time.
 * API Testing: Validating backend functionality with Postman.
+* Database Validation: Using SQL queries to verify data integrity, validate business rules, and ensure the application correctly interacts with the database.
+* Code Coverage Analysis (SQL): Using techniques like statement, branch, and path coverage to ensure thorough testing of the codebase.
 
 # Example of my works
    ### Test scenarios in Trello
@@ -88,6 +90,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Test case of an invalid situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%203.png) 3
   * [Test case of an UI situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%204.png)
   * [Test case of a valid situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%206.png)
+  * [Test case of an edge case situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%207.png)
   ### User stories and Acceptances criterias in Jira
   * User stories of an ecommerce website, online school, Bank website, Train a station website
   *  [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%201.png)
@@ -128,10 +131,6 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%20Test%2Cresult1%20BM.png) 1
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2C%20Result2%20BM.png) 2
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2CResult3%20BM.png) 3
-        
-      
-      
-
 
   
  #### An example of automation
