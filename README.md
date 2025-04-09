@@ -143,5 +143,5 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * [Example of Traceviewer feature on Playwright](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Pw-Trace%20viewer.png) 2
 * [Example of Api test on Playwright](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Pw-Api%20test%202.png) 1
 * [Example of Api test on Playwright](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Pw-api%20test%203.png) 2
-* [Example of Api test on Playwright]()
+* [Example of Api test on Playwright](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Pw-Api%20test%204.png) 3
  
