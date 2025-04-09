@@ -87,6 +87,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%202.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%203.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%204.png)
+    
    ### API testing in postman
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM.png) 1
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png) 2
@@ -118,6 +119,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%20Test%2Cresult1%20BM.png) 1
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2C%20Result2%20BM.png) 2
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2CResult3%20BM.png) 3
+        
  #### An example of automation
 * [Facebook signup page automation on Selenium WebDriver](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
 * [Example of drag and drop feature on Playwright](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Pw-drag%26drog.png)
