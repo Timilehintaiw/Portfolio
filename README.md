@@ -87,7 +87,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Test case of an invalid situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%202.png) 2
   * [Test case of an invalid situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%203.png) 3
   * [Test case of an UI situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%204.png)
-  * [Test case of a valid situation]()
+  * [Test case of a valid situation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/TC%206.png)
   ### User stories and Acceptances criterias in Jira
   * User stories of an ecommerce website, online school, Bank website, Train a station website
   *  [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%201.png)
