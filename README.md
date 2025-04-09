@@ -51,7 +51,6 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 #### Reporting and Collaboration:
 * Generating detailed performance reports to share findings with stakeholders.
 * Collaborating with developers and system architects to address performance issues.
-* 
   #### Automation testing
 * Learning to use Selenium WebDriver for automating web application testing.
 * Writing basic test scripts in Java to perform actions like login, navigation, and validation.
@@ -59,15 +58,15 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Understanding the structure of Selenium test scripts, including setup, execution, and teardown.
 * Playwright: Proficient in automating browser interactions and creating robust test scripts for end-to-end testing.
 #### Test Scenario Automation:
-*Automating functional tests to ensure application workflows operate correctly.
-*Beginning to explore data-driven testing for validating multiple inputs.
+* Automating functional tests to ensure application workflows operate correctly.
+* Beginning to explore data-driven testing for validating multiple inputs.
 # Tools, Platforms and methodologies:
 * Familiar with integrating Selenium scripts into tools like IntelliJ IDEA or Eclipse for execution.
 * Tools: Selenium, JMeter, Postman, Azure DevOps, Jira, Trello, Zephyr scale
 * Languages: Basic knowledge of Java (for Selenium automation)
 * Techniques: Black-box Testing, white-box Testing, Exploratory Testing, Regression Testing
 * SQL: Solid foundation in querying databases, validating data integrity, and performing database testing.
-###### Methodologies:
+### Methodologies:
 * Manual Testing: Systematic execution of test cases without automation tools.
 * Black-Box Testing: Techniques like equivalence partitioning, boundary value analysis, and exploratory testing.
 * Agile Testing: Testing within sprints, adapting to changes, and collaborating with teams.
@@ -79,7 +78,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Code Coverage Analysis (SQL): Using techniques like statement, branch, and path coverage to ensure thorough testing of the codebase.
 
 # Example of my works
-   ### Test scenarios in Trello
+  ### Test scenarios in Trello
 * Test Scenario of an Ecommerce website [Test Scenario of an ecommerce website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Cart%20functionalities%20of%20an%20EW.png)
 * Test Scenario of Train station timetable[Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios.png) [Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios%202.png) 2
 * Test Scenario of Train station Signup [Test scenario of a Train station signup](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Railway%20signup%20scenarios.png)
@@ -100,6 +99,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%202.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%203.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%204.png)
+    
      ### API testing in postman
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM.png) 1
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png) 2
