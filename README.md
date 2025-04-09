@@ -32,9 +32,6 @@ API testing ensures that the backend services of an application function as expe
  * Validation:
 * Checking response body content to confirm data accuracy.
 * Validating HTTP status codes (e.g., 200 OK, 404 Not Found, 500 Internal Server Error).
-  #### Scenario Testing:
-* Creating positive and negative test scenarios to assess API reliability under different conditions.
-* Testing edge cases, such as invalid inputs or missing parameters, to identify errors.
 #### Performance testing
 Performance testing evaluates the speed, scalability, and stability of applications under various conditions. Here’s what I know and have applied in this area:
 Understanding Performance Testing:
@@ -45,22 +42,13 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Creating and configuring test plans to assess application performance.
 * Executing test scripts to monitor how applications respond under different levels of load.
 * Analyzing test results to identify bottlenecks and areas for improvement.
-#### Scenario Creation:
-* Designing realistic test scenarios that mimic user behavior to evaluate system performance.
-* Simulating heavy user traffic to test application stability under peak conditions.
-#### Reporting and Collaboration:
-* Generating detailed performance reports to share findings with stakeholders.
-* Collaborating with developers and system architects to address performance issues.
   #### Automation testing
 * Learning to use Selenium WebDriver for automating web application testing.
 * Writing basic test scripts in Java to perform actions like login, navigation, and validation.
 * Interacting with web elements using techniques like locators (ID, name, CSS selectors, and XPath).
 * Understanding the structure of Selenium test scripts, including setup, execution, and teardown.
 * Playwright: Proficient in automating browser interactions and creating robust test scripts for end-to-end testing.
-#### Test Scenario Automation:
-* Automating functional tests to ensure application workflows operate correctly.
-* Beginning to explore data-driven testing for validating multiple inputs.
-# Tools, Platforms and methodologies:
+# Tools, Platforms
 * Familiar with integrating Selenium scripts into tools like IntelliJ IDEA or Eclipse for execution.
 * Tools: Selenium, JMeter, Postman, Azure DevOps, Jira, Trello, Zephyr scale
 * Languages: Basic knowledge of Java (for Selenium automation)
@@ -78,7 +66,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Code Coverage Analysis (SQL): Using techniques like statement, branch, and path coverage to ensure thorough testing of the codebase.
 
 # Example of my works
-  ### Test scenarios in Trello
+### Test scenarios in Trello
 * Test Scenario of an Ecommerce website [Test Scenario of an ecommerce website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Cart%20functionalities%20of%20an%20EW.png)
 * Test Scenario of Train station timetable[Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios.png) [Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios%202.png) 2
 * Test Scenario of Train station Signup [Test scenario of a Train station signup](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Railway%20signup%20scenarios.png)
@@ -99,8 +87,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%202.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%203.png)
   * [Acceptance criteria](https://github.com/Timilehintaiw/Portfolio/blob/main/media/User%20story%204.png)
-    
-     ### API testing in postman
+   ### API testing in postman
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM.png) 1
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%202.png) 2
     * [Example of Test cases in API Testing](https://github.com/Timilehintaiw/Portfolio/blob/main/media/API%20PM%203.png) 3
@@ -131,8 +118,6 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%20Test%2Cresult1%20BM.png) 1
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2C%20Result2%20BM.png) 2
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2CResult3%20BM.png) 3
-
-  
  #### An example of automation
 * [Facebook signup page automation on Selenium WebDriver](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
 * [Example of drag and drop feature on Playwright](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Pw-drag%26drog.png)
