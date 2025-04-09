@@ -82,6 +82,8 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 * Test Scenario of Train station timetable[Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios.png) [Test Scenario of a train station website](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios%202.png) 2
 * Test Scenario of Train station Signup [Test scenario of a Train station signup](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Railway%20signup%20scenarios.png)
   [Test scenario of a Train station signup](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Train%20station%20timetable%20Scenarios%202.png)
+  ### Test Cases in TestRail
+  * ()[Test case of an invalid situation]
   ### User stories and Acceptances criterias in Jira
   * User stories of an ecommerce website, online school, Bank website, Train a station website
   *  [User stories](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Acceptance%20criteria%201.png)
@@ -122,6 +124,7 @@ Knowledge of testing types like load testing, stress testing, and endurance test
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Perfomance%20Test%2Cresult1%20BM.png) 1
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2C%20Result2%20BM.png) 2
       * [Example of the recorded script's result](https://github.com/Timilehintaiw/Portfolio/blob/main/Performance%20Test%2CResult3%20BM.png) 3
+        
       
       
 
