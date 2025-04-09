@@ -134,5 +134,14 @@ Knowledge of testing types like load testing, stress testing, and endurance test
 
   
  #### An example of automation
-* [Facebook signup page automation](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
-
+* [Facebook signup page automation on Selenium WebDriver](https://github.com/Timilehintaiw/Portfolio/blob/main/media/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).mp4)
+* [Example of drag and drop feature on Playwright]()
+* [Example of download feature on Playwright]()
+* [Example of upload feature on Playwright]()
+* [Example of checkboxes feature on Playwright]()
+* [Example of Traceviewer feature on Playwright]()
+* [Example of Traceviewer feature on Playwright]()
+* [Example of Api test on Playwright]()
+* [Example of Api test on Playwright]()
+* [Example of Api test on Playwright]()
+ 
